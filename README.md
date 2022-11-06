@@ -1,6 +1,6 @@
 # notify_me
 
-A new Flutter project.
+A new notification project
 
 ## Getting Started
 
